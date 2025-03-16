@@ -1,0 +1,12 @@
+name: anime_broadcast_ratings
+channels:
+  - defaults
+dependencies:
+  - conda-forge::aiolimiter
+  - beautifulsoup4
+  - html5lib
+  - httpx
+  - ipykernel
+  - jinja2
+  - lxml
+  - seaborn

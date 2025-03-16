@@ -1,2 +1,7 @@
 *.csv
+*.feather
+*.html
 *.old.ipynb
+cache*
+raw/*.csv
+raw/*.feather
